@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://oussama:123456onetech@onetechcluster.penbavg.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
